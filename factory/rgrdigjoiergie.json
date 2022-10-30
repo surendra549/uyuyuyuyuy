@@ -1,0 +1,9 @@
+{
+	"name": "rgrdigjoiergie",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ea36820-336a-4a73-812b-2621160617af",
+		"tenantId": "3617ef9b-98b4-40d9-ba43-e1ed6709cf0d"
+	}
+}
