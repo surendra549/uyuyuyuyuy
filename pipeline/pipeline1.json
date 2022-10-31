@@ -49,20 +49,20 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText1",
+						"referenceName": "inputdataste",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DelimitedText2",
+						"referenceName": "outputdataset",
 						"type": "DatasetReference"
 					}
 				]
 			}
 		],
 		"annotations": [],
-		"lastPublishTime": "2022-10-30T01:21:14Z"
+		"lastPublishTime": "2022-10-31T02:03:12Z"
 	},
 	"type": "Microsoft.DataFactory/factories/pipelines"
 }
